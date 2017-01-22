@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  laklak
 //
-//  Created by Olivia Barnett on 1/22/17.
+//  Created by Olivia Barnett and Sena Oktem on 1/22/17.
 //  Copyright © 2017 Olivia Barnett. All rights reserved.
 //
 
